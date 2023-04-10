@@ -44,3 +44,6 @@ src/*.gch
 /*.fa
 /*.gfa
 .vscode/*
+datasets/
+pbsim*
+deps/
